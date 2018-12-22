@@ -1,0 +1,28 @@
+body {
+    background-image: url(../images/gravel.png)
+}
+h1, h2, h3 {
+       
+}
+
+h1 {
+    
+    padding: 40px;
+    margin-top: 0;
+    
+}
+
+h2 {
+    color:blue;
+}
+
+.game {
+    background-color: lightskyblue;
+    text-align: center;
+    color: red;
+    margin: 40px; 
+    border: 5px dotted blue;
+    width: 500px;
+    position: relative;
+    margin-left: 35%;
+}
